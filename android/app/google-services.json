@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5437420063",
+    "firebase_url": "https://vorpy-flutter-app.firebaseio.com",
+    "project_id": "vorpy-flutter-app",
+    "storage_bucket": "vorpy-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5437420063:android:cc44f29e1637e6facd9b2a",
+        "android_client_info": {
+          "package_name": "vorpy.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5437420063-gbvvsohd07lkvg7uv5cns8ll1krmv0va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYO9Lb5x9u-K3m5KqckTlLnLGAf45Bmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5437420063-gbvvsohd07lkvg7uv5cns8ll1krmv0va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
