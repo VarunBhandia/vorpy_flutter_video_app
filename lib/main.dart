@@ -129,6 +129,7 @@ class UploadMultipleImageDemoState extends State<UploadMultipleImageDemo> {
   }
 
   upload(fileName, filePath) {
+    print("Hello");
     _extension = fileName.toString().split('.').last;
     StorageReference storageRef =
     FirebaseStorage.instance.ref().child(fileName);
